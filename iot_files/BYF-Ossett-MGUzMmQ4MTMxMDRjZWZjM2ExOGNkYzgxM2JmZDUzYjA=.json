@@ -1,0 +1,106 @@
+{
+  "gw_identifier": "BYF-Ossett",
+  "gw_hash_id": "MGUzMmQ4MTMxMDRjZWZjM2ExOGNkYzgxM2JmZDUzYjA=",
+  "smp-domain": "AAAA",
+  "version": 1.3,
+   "iot_stats":[
+    
+    
+    {
+      "destination_services": [
+
+        {
+          "connection_count": 11,
+          "dst_hostname": "133.243.238.243",
+          "dst_ip": [
+            "133.243.238.243"
+          ],
+          "first_seen": "Tue, 20.07.2021 11:47:04",
+          "last_seen": "Mon, 09.08.2021 11:11:35",
+          "port": 123,
+          "protocol": 17,
+          "service_name": "NTP"
+        },
+
+        {
+          "connection_count": 6,
+          "dst_hostname": "pool.ntp.org",
+          "dst_ip": [
+            "133.243.238.243"
+          ],
+          "first_seen": "Sat, 24.07.2021 11:47:38",
+          "last_seen": "Tue, 10.08.2021 11:11:44",
+          "port": 123,
+          "protocol": 17,
+          "service_name": "NTP"
+        },
+
+        {
+          "connection_count": 3,
+          "dst_hostname": "sntp.brother.com",
+          "dst_ip": [
+            "133.243.238.243"
+          ],
+          "first_seen": "Mon, 26.07.2021 11:13:04",
+          "last_seen": "Sat, 07.08.2021 11:11:11",
+          "port": 123,
+          "protocol": 17,
+          "service_name": "NTP"
+        }
+      ],
+
+
+      "device": {
+        "GroupName": "DEVICE_TYPE_GROUP.HOME_AND_OFFICE",
+        "ID": "52AD38F8EE66BDCB15F7BBB093FB8CCD",
+        "brand": "Brother",
+        "hash-id": "NzhkMzRhMWVmZjQ1Y2NlZjBlNDNiOTkwYjAxOWFjNTY=",
+        "name": "Printer",
+        "rank": "54",
+        "type": "HOST_DEVICE_TYPE.PRINTER",
+        "vendor": "Brother Industries"
+      }
+    },
+    {
+      "destination_services": [
+        {
+          "connection_count": 18375,
+          "dst_hostname": "91.207.36.31",
+          "dst_ip": [
+            "91.207.36.31"
+          ],
+          "first_seen": "Tue, 20.07.2021 09:50:56",
+          "last_seen": "Wed, 11.08.2021 01:03:15",
+          "port": 29006,
+          "protocol": 6
+        },
+        {
+          "appi_name": "InduSoft Web Studio (IWS)",
+          "connection_count": 88,
+          "dst_full_urls": [
+            ""
+          ],
+          "dst_hostname": "",
+          "dst_ip": [
+            "91.207.36.31"
+          ],
+          "first_seen": "Tue, 20.07.2021 17:11:14",
+          "last_seen": "Tue, 10.08.2021 17:14:32",
+          "port": 29006,
+          "protocol": 6
+        }
+      ],
+      "device": {
+        "GroupName": "DEVICE_TYPE_GROUP.SMART_HOME",
+        "ID": "DAA355EECEDE2670529E06A70A558B85",
+        "brand": "August",
+        "hash-id": "MmZmZWJjZWQ3NjYxYTM4MDAwMDkzMWQ4Y2MxMzIzMTg=",
+        "model": "Doorbell Cam",
+        "name": "Doorbell",
+        "rank": "18",
+        "type": "HOST_DEVICE_TYPE.DOORBELL",
+        "vendor": "AMPAK Technology"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+	"gw_identifier": "SMW-Immingham",
+	"gw_hash_id": "MDA0MzBlZWUzYmZiZGJkYjYzYWNmMjE5ZTU0NmM2ZGY=",
+	"smp-domain": "AAAA",
+	"version": 1.3,
+	"iot_stats": [
+		{
+			"destination_services": [{
+					"connection_count": 155,
+					"dst_hostname": "195.188.150.155",
+					"dst_ip": [
+						"195.188.150.155"
+					],
+					"first_seen": "Tue, 20.07.2021 10:25:15",
+					"last_seen": "Tue, 10.08.2021 17:28:09",
+					"port": 46198,
+					"protocol": 6
+				},
+				{
+					"connection_count": 3,
+					"dst_hostname": "194.36.112.180",
+					"dst_ip": [
+						"194.36.112.180"
+					],
+					"first_seen": "Fri, 30.07.2021 09:14:54",
+					"last_seen": "Tue, 10.08.2021 12:26:34",
+					"port": 46198,
+					"protocol": 6
+				},
+				{
+					"connection_count": 2,
+					"dst_hostname": "81.144.134.243",
+					"dst_ip": [
+						"81.144.134.243"
+					],
+					"first_seen": "Tue, 10.08.2021 10:34:57",
+					"last_seen": "Tue, 10.08.2021 10:35:23",
+					"port": 1429,
+					"protocol": 6
+				}
+			],
+			"device": {
+				"GroupName": "DEVICE_TYPE_GROUP.SMART_HOME",
+				"ID": "E435E1D3385A8FFBA30E2A0F8D4667F7",
+				"brand": "August",
+				"hash-id": "ZTY3MDc2YzU1ZTA4NzBmMDcxZDY1ZGM2MzkwZTgxNjg=",
+				"model": "Doorbell Cam",
+				"name": "Doorbell",
+				"rank": "12",
+				"type": "HOST_DEVICE_TYPE.DOORBELL",
+				"vendor": "AMPAK Technology"
+			}
+		}
+
+	]
+}
